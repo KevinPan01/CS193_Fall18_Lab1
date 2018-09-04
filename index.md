@@ -1,7 +1,7 @@
-#Kevin Pan's first CS193 Lab
+## Kevin Pan's first CS193 Lab
 
--CS 193 is taught by students
--These students are pretty cool
+- CS 193 is taught by students
+- These students are pretty cool
 
 ## Welcome to GitHub Pages
 
