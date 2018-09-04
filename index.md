@@ -1,3 +1,8 @@
+#Kevin Pan's first CS193 Lab
+
+-CS 193 is taught by students
+-These students are pretty cool
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
